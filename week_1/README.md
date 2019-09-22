@@ -2,9 +2,9 @@
 
 
 Arrays:
-- [X] https://leetcode.com/problems/sort-array-by-parity
-- [X] https://leetcode.com/problems/transpose-matrix
-- [X] https://leetcode.com/problems/flipping-an-image
+- [ ] https://leetcode.com/problems/sort-array-by-parity
+- [ ] https://leetcode.com/problems/transpose-matrix
+- [ ] https://leetcode.com/problems/flipping-an-image
 
 Basic math:
 - [X] https://leetcode.com/problems/self-dividing-numbers
