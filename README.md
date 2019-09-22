@@ -9,6 +9,10 @@ Contains weekly work as a Software Engineering Trainee at Wallbreakers
 
 - Solutions are in Java
 
+- Change the class name before running
+
+- Driver code might might not be present for problems
+
 - Unless commented otherwise, all solutions are my own 
 
 ### Links To Profiles
