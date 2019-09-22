@@ -7,31 +7,31 @@ Arrays:
 - [ ] https://leetcode.com/problems/flipping-an-image
 
 Basic math:
-- [X] https://leetcode.com/problems/self-dividing-numbers
-- [X] https://leetcode.com/problems/fizz-buzz
-- [X] https://leetcode.com/problems/plus-one
-- [X] https://leetcode.com/problems/excel-sheet-column-number
-- [X] https://leetcode.com/problems/power-of-two
+- [ ] https://leetcode.com/problems/self-dividing-numbers
+- [ ] https://leetcode.com/problems/fizz-buzz
+- [ ] https://leetcode.com/problems/plus-one
+- [ ] https://leetcode.com/problems/excel-sheet-column-number
+- [ ] https://leetcode.com/problems/power-of-two
 
 Simple string manipulation:
-- [X] https://leetcode.com/problems/reverse-string
-- [X] https://leetcode.com/problems/detect-capital
-- [X] https://leetcode.com/problems/reverse-words-in-a-string-iii
-- [X] https://leetcode.com/problems/valid-palindrome
-- [X] https://leetcode.com/problems/reverse-vowels-of-a-string
-- [X] https://leetcode.com/problems/longest-common-prefix
+- [ ] https://leetcode.com/problems/reverse-string
+- [ ] https://leetcode.com/problems/detect-capital
+- [ ] https://leetcode.com/problems/reverse-words-in-a-string-iii
+- [ ] https://leetcode.com/problems/valid-palindrome
+- [ ] https://leetcode.com/problems/reverse-vowels-of-a-string
+- [ ] https://leetcode.com/problems/longest-common-prefix
 
 Simple bitwise manipulation:
-- [X] https://leetcode.com/problems/number-complement
-- [X] https://leetcode.com/problems/hamming-distance
-- [X] https://leetcode.com/problems/binary-gap
-- [X] https://leetcode.com/problems/single-number
+- [ ] https://leetcode.com/problems/number-complement
+- [ ] https://leetcode.com/problems/hamming-distance
+- [ ] https://leetcode.com/problems/binary-gap
+- [ ] https://leetcode.com/problems/single-number
 
 Hashmaps and sets:
-- [X] https://leetcode.com/problems/two-sum
-- [X] https://leetcode.com/problems/valid-anagram
+- [ ] https://leetcode.com/problems/two-sum
+- [ ] https://leetcode.com/problems/valid-anagram
 
 Union find:
-- [X] https://leetcode.com/problems/friend-circles
-- [X] https://leetcode.com/problems/number-of-islands
-- [X] https://leetcode.com/problems/surrounded-regions
+- [ ] https://leetcode.com/problems/friend-circles
+- [ ] https://leetcode.com/problems/number-of-islands
+- [ ] https://leetcode.com/problems/surrounded-regions
