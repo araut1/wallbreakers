@@ -2,7 +2,7 @@
 
 
 Arrays:
-- [ ] https://leetcode.com/problems/sort-array-by-parity
+- [X] https://leetcode.com/problems/sort-array-by-parity
 - [ ] https://leetcode.com/problems/transpose-matrix
 - [ ] https://leetcode.com/problems/flipping-an-image
 
