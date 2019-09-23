@@ -3,15 +3,15 @@
 
 Arrays:
 - [X] https://leetcode.com/problems/sort-array-by-parity
-- [ ] https://leetcode.com/problems/transpose-matrix
-- [ ] https://leetcode.com/problems/flipping-an-image
+- [X] https://leetcode.com/problems/transpose-matrix
+- [X] https://leetcode.com/problems/flipping-an-image
 
 Basic math:
 - [ ] https://leetcode.com/problems/self-dividing-numbers
-- [ ] https://leetcode.com/problems/fizz-buzz
+- [X] https://leetcode.com/problems/fizz-buzz
 - [ ] https://leetcode.com/problems/plus-one
 - [ ] https://leetcode.com/problems/excel-sheet-column-number
-- [ ] https://leetcode.com/problems/power-of-two
+- [X] https://leetcode.com/problems/power-of-two
 
 Simple string manipulation:
 - [ ] https://leetcode.com/problems/reverse-string
@@ -28,8 +28,8 @@ Simple bitwise manipulation:
 - [ ] https://leetcode.com/problems/single-number
 
 Hashmaps and sets:
-- [ ] https://leetcode.com/problems/two-sum
-- [ ] https://leetcode.com/problems/valid-anagram
+- [X] https://leetcode.com/problems/two-sum
+- [X] https://leetcode.com/problems/valid-anagram
 
 Union find:
 - [ ] https://leetcode.com/problems/friend-circles
