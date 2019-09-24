@@ -14,9 +14,9 @@ Basic math:
 - [X] https://leetcode.com/problems/power-of-two
 
 Simple string manipulation:
-- [ ] https://leetcode.com/problems/reverse-string
-- [ ] https://leetcode.com/problems/detect-capital
-- [ ] https://leetcode.com/problems/reverse-words-in-a-string-iii
+- [X] https://leetcode.com/problems/reverse-string
+- [X] https://leetcode.com/problems/detect-capital
+- [X] https://leetcode.com/problems/reverse-words-in-a-string-iii
 - [ ] https://leetcode.com/problems/valid-palindrome
 - [ ] https://leetcode.com/problems/reverse-vowels-of-a-string
 - [ ] https://leetcode.com/problems/longest-common-prefix
