@@ -7,10 +7,10 @@ Arrays:
 - [X] https://leetcode.com/problems/flipping-an-image
 
 Basic math:
-- [ ] https://leetcode.com/problems/self-dividing-numbers
+- [X] https://leetcode.com/problems/self-dividing-numbers
 - [X] https://leetcode.com/problems/fizz-buzz
-- [ ] https://leetcode.com/problems/plus-one
-- [ ] https://leetcode.com/problems/excel-sheet-column-number
+- [X] https://leetcode.com/problems/plus-one
+- [X] https://leetcode.com/problems/excel-sheet-column-number
 - [X] https://leetcode.com/problems/power-of-two
 
 Simple string manipulation:
