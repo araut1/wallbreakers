@@ -17,9 +17,9 @@ Simple string manipulation:
 - [X] https://leetcode.com/problems/reverse-string
 - [X] https://leetcode.com/problems/detect-capital
 - [X] https://leetcode.com/problems/reverse-words-in-a-string-iii
-- [ ] https://leetcode.com/problems/valid-palindrome
-- [ ] https://leetcode.com/problems/reverse-vowels-of-a-string
-- [ ] https://leetcode.com/problems/longest-common-prefix
+- [X] https://leetcode.com/problems/valid-palindrome
+- [X] https://leetcode.com/problems/reverse-vowels-of-a-string
+- [X] https://leetcode.com/problems/longest-common-prefix
 
 Simple bitwise manipulation:
 - [ ] https://leetcode.com/problems/number-complement
