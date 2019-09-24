@@ -22,10 +22,10 @@ Simple string manipulation:
 - [X] https://leetcode.com/problems/longest-common-prefix
 
 Simple bitwise manipulation:
-- [ ] https://leetcode.com/problems/number-complement
-- [ ] https://leetcode.com/problems/hamming-distance
-- [ ] https://leetcode.com/problems/binary-gap
-- [ ] https://leetcode.com/problems/single-number
+- [X] https://leetcode.com/problems/number-complement
+- [X] https://leetcode.com/problems/hamming-distance
+- [X] https://leetcode.com/problems/binary-gap
+- [X] https://leetcode.com/problems/single-number
 
 Hashmaps and sets:
 - [X] https://leetcode.com/problems/two-sum
