@@ -32,6 +32,6 @@ Hashmaps and sets:
 - [X] https://leetcode.com/problems/valid-anagram
 
 Union find:
-- [ ] https://leetcode.com/problems/friend-circles
-- [ ] https://leetcode.com/problems/number-of-islands
-- [ ] https://leetcode.com/problems/surrounded-regions
+- [X] https://leetcode.com/problems/friend-circles
+- [X] https://leetcode.com/problems/number-of-islands
+- [X] https://leetcode.com/problems/surrounded-regions
