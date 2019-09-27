@@ -13,7 +13,7 @@ Hash maps and hash sets:
 - [X] https://leetcode.com/problems/intersection-of-two-arrays
 - [ ] https://leetcode.com/problems/valid-sudoku
 - [ ] https://leetcode.com/problems/isomorphic-strings
-- [ ] https://leetcode.com/problems/word-pattern
+- [X] https://leetcode.com/problems/word-pattern
 - [ ] https://leetcode.com/problems/design-hashmap
 - [ ] https://leetcode.com/problems/design-hashset
 
