@@ -1,6 +1,8 @@
 # WallBreakers Week 1
 
 
+### Solved 23/23 
+
 Arrays:
 - [X] https://leetcode.com/problems/sort-array-by-parity
 - [X] https://leetcode.com/problems/transpose-matrix
