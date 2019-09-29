@@ -28,6 +28,6 @@ Multisets:
 - [ ] https://leetcode.com/problems/number-of-atoms
 
 Tries:
-- [ ] https://leetcode.com/problems/longest-word-in-dictionary
-- [ ] https://leetcode.com/problems/implement-trie-prefix-tree
-- [ ] https://leetcode.com/problems/word-search-ii
+- [X] https://leetcode.com/problems/longest-word-in-dictionary
+- [X] https://leetcode.com/problems/implement-trie-prefix-tree
+- [X] https://leetcode.com/problems/word-search-ii
