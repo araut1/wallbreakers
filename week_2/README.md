@@ -5,17 +5,17 @@
 
 Hash maps and hash sets:
 - [X] https://leetcode.com/problems/jewels-and-stones
-- [ ] https://leetcode.com/problems/unique-morse-code-words
-- [ ] https://leetcode.com/problems/happy-number
+- [X] https://leetcode.com/problems/unique-morse-code-words
+- [X] https://leetcode.com/problems/happy-number
 - [X] https://leetcode.com/problems/uncommon-words-from-two-sentences
-- [ ] https://leetcode.com/problems/distribute-candies
-- [ ] https://leetcode.com/problems/groups-of-special-equivalent-strings
+- [X] https://leetcode.com/problems/distribute-candies
+- [X] https://leetcode.com/problems/groups-of-special-equivalent-strings
 - [X] https://leetcode.com/problems/intersection-of-two-arrays
-- [ ] https://leetcode.com/problems/valid-sudoku
-- [ ] https://leetcode.com/problems/isomorphic-strings
+- [X] https://leetcode.com/problems/valid-sudoku
+- [X] https://leetcode.com/problems/isomorphic-strings
 - [X] https://leetcode.com/problems/word-pattern
-- [ ] https://leetcode.com/problems/design-hashmap
-- [ ] https://leetcode.com/problems/design-hashset
+- [X] https://leetcode.com/problems/design-hashmap
+- [X] https://leetcode.com/problems/design-hashset
 
 Multisets:
 - [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string
