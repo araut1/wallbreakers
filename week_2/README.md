@@ -3,7 +3,7 @@
 
 ### Solved: 23/23 
 
-### Multiset problems use the Java class Multiset.java
+### *** Multiset problems use the Java class Multiset.java
 
 Hash maps and hash sets:
 - [X] https://leetcode.com/problems/jewels-and-stones
