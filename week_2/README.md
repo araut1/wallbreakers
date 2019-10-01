@@ -18,14 +18,14 @@ Hash maps and hash sets:
 - [X] https://leetcode.com/problems/design-hashset
 
 Multisets:
-- [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string
-- [ ] https://leetcode.com/problems/first-unique-character-in-a-string
-- [ ] https://leetcode.com/problems/subdomain-visit-count
-- [ ] https://leetcode.com/problems/find-the-difference
-- [ ] https://leetcode.com/problems/most-common-word
-- [ ] https://leetcode.com/problems/sort-characters-by-frequency
-- [ ] https://leetcode.com/problems/set-mismatch
-- [ ] https://leetcode.com/problems/number-of-atoms
+- [X] https://leetcode.com/problems/find-all-anagrams-in-a-string
+- [X] https://leetcode.com/problems/first-unique-character-in-a-string
+- [X] https://leetcode.com/problems/subdomain-visit-count
+- [X] https://leetcode.com/problems/find-the-difference
+- [X] https://leetcode.com/problems/most-common-word
+- [X] https://leetcode.com/problems/sort-characters-by-frequency
+- [X] https://leetcode.com/problems/set-mismatch
+- [X] https://leetcode.com/problems/number-of-atoms
 
 Tries:
 - [X] https://leetcode.com/problems/longest-word-in-dictionary
