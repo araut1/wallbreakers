@@ -3,6 +3,8 @@
 
 ### Solved: 23/23 
 
+### Multiset problems use the Java class Multiset.java
+
 Hash maps and hash sets:
 - [X] https://leetcode.com/problems/jewels-and-stones
 - [X] https://leetcode.com/problems/unique-morse-code-words
