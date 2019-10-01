@@ -1,7 +1,7 @@
 # WallBreakers Week 2
 
 
-### Solved /23 
+### Solved: 23/23 
 
 Hash maps and hash sets:
 - [X] https://leetcode.com/problems/jewels-and-stones
