@@ -13,8 +13,8 @@ Greedy algorithms
 - [] https://leetcode.com/problems/partition-labels
 
 Binary search
-- [] https://leetcode.com/problems/binary-search
-- [] https://leetcode.com/problems/peak-index-in-a-mountain-array
+- [X] https://leetcode.com/problems/binary-search
+- [X] https://leetcode.com/problems/peak-index-in-a-mountain-array
 
 Sorting
 - [] https://leetcode.com/problems/valid-anagram
