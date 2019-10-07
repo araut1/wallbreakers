@@ -17,10 +17,10 @@ Binary search
 - [X] https://leetcode.com/problems/peak-index-in-a-mountain-array
 
 Sorting
-- [] https://leetcode.com/problems/valid-anagram
-- [] https://leetcode.com/problems/array-partition-i
-- [] https://leetcode.com/problems/merge-intervals
-- [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string
+- [X] https://leetcode.com/problems/valid-anagram
+- [X] https://leetcode.com/problems/array-partition-i
+- [X] https://leetcode.com/problems/merge-intervals
+- [X] https://leetcode.com/problems/find-all-anagrams-in-a-string
 
 Simple recursion
 - [ ]https://leetcode.com/problems/powx-n
