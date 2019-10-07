@@ -22,10 +22,11 @@ Sorting
 - [] https://leetcode.com/problems/merge-intervals
 - [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string
 
+Simple recursion
+- [ ]https://leetcode.com/problems/powx-n
 
-Recursion and memoization: make sure you use memoization if applicable for the problems below
-- [] https://leetcode.com/problems/powx-n
-- [] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+Recursion and memoization
+- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 - [ ] https://leetcode.com/problems/edit-distance
 - [] https://leetcode.com/problems/house-robber-ii
 - [ ] https://leetcode.com/problems/regular-expression-matching
