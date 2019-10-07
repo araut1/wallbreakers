@@ -26,3 +26,5 @@ Contains weekly work as a Software Engineering Trainee at Wallbreakers
 
 ### Week Two: Hash Maps/Sets, Multisets
 
+### Week Three: Greedy, recursive and DP algorithms
+
