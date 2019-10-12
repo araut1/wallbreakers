@@ -26,14 +26,14 @@ Simple recursion
 - []https://leetcode.com/problems/powx-n
 
 Recursion and memoization
-- [] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+- [X] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 - [] https://leetcode.com/problems/edit-distance
 - [] https://leetcode.com/problems/house-robber-ii
 - [] https://leetcode.com/problems/regular-expression-matching
 
 
 Dynamic Programming: same problems as above, but use dynamic programming this time
-- [] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+- [X] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 - [] https://leetcode.com/problems/edit-distance
 - [] https://leetcode.com/problems/house-robber-ii
 - [] https://leetcode.com/problems/regular-expression-matching
