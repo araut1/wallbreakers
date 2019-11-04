@@ -3,7 +3,6 @@
 
 ### Solved: /20 
 
-### *** Multiset problems use the Java class Multiset.java
 
 Greedy algorithms
 - [X] https://leetcode.com/problems/lemonade-change
