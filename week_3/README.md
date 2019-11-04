@@ -34,8 +34,8 @@ Recursion and memoization
 
 Dynamic Programming: same problems as above, but use dynamic programming this time
 - [X] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-- [] https://leetcode.com/problems/edit-distance
-- [] https://leetcode.com/problems/house-robber-ii
-- [] https://leetcode.com/problems/regular-expression-matching
+- [X] https://leetcode.com/problems/edit-distance
+- [X] https://leetcode.com/problems/house-robber-ii
+- [X] https://leetcode.com/problems/regular-expression-matching
 
 
