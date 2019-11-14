@@ -4,13 +4,13 @@
 ### Solved: 14/14
 
 Trees
-- [ ] https://leetcode.com/problems/n-ary-tree-postorder-traversal
-- [ ] https://leetcode.com/problems/leaf-similar-trees
+- [X] https://leetcode.com/problems/n-ary-tree-postorder-traversal
+- [X] https://leetcode.com/problems/leaf-similar-trees
 - [X] https://leetcode.com/problems/same-tree
-- [ ] https://leetcode.com/problems/sum-of-left-leaves
+- [X] https://leetcode.com/problems/sum-of-left-leaves
 - [X] https://leetcode.com/problems/diameter-of-binary-tree
-- [ ] https://leetcode.com/problems/longest-univalue-path
-- [ ] https://leetcode.com/problems/find-bottom-left-tree-value
+- [X] https://leetcode.com/problems/longest-univalue-path
+- [X] https://leetcode.com/problems/find-bottom-left-tree-value
 
 Graphs
 - [ ] https://leetcode.com/problems/course-schedule
